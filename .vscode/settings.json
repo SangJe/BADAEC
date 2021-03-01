@@ -39,6 +39,16 @@
         "xstddef": "cpp",
         "xstring": "cpp",
         "xtr1common": "cpp",
-        "xutility": "cpp"
+        "xutility": "cpp",
+        "cctype": "cpp",
+        "string": "cpp",
+        "algorithm": "cpp",
+        "random": "cpp",
+        "bitset": "cpp",
+        "xhash": "cpp",
+        "xtree": "cpp",
+        "set": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp"
     }
 }
